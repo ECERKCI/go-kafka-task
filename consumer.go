@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/ECERKCI/go-kafka-task/blob/main/consumer.go"
 	"math/rand"
 	"os"
 	"time"
