@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/ECERKCI/go-kafka-task/edit/main/producer.go"
 	"math/rand"
 	"os"
 	"time"
